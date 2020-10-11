@@ -1,0 +1,18 @@
+.back-img {
+ background-image: url('https://github.com/CGantes/Gantes_WebDev_Finals/blob/main/Gantes_WebDev_Finals/exam/assets/go.png?raw=true');
+    background-size: 100%;
+	height: 400px;
+}
+.nav-link {
+margin-left: 10px;
+}
+
+ .footer {
+            clear: both;
+            font-family: 'Amatica SC', cursive;
+            background-color: 66CCFF;
+            text-align: center;
+            height: 70px;
+            padding-top: 10px;
+            box-sizing: border-box;
+        }
